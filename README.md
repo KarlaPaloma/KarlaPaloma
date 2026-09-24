@@ -1,9 +1,9 @@
-- 👋 Oi, eu sou Karla Paloma da Silva
-- 👀 Tenho interesse nas áreas de POO, Banco de Dados e Testes
-- 🌱 Atualmente estou cursando uma Pós Graduação em Engenharia da Qualidade de Software
-- 📫 E-mail: karlapaloma1989@hotmail.com 
+👋 Hi, I'm Karla Paloma da Silva
 
-<!---
-KarlaPaloma/KarlaPaloma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I am interested in Quality Assurance, AI, and Manual/Automation Testing
+
+🌱 I'm post-graduate degree in Software Quality Engineering
+
+👩‍💻 With over 5 years of experience in Quality Assurance (QA)
+
+📫 How to reach me: karlapaloma1989@hotmail.com📫 How to reach me: karlapaloma1989@hotmail.com
